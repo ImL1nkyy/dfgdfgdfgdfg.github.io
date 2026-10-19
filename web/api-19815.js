@@ -1,0 +1,1 @@
+var api={ip:'194.226.49.4',port:'1537',status:'0',mapname:'-',version:'',weburl:'',players:'0',maxplayers:'50',hostname:'Namalsk Bonus',gamemode:'',votes:'0',plinfo:[]};
